@@ -1,0 +1,5 @@
+python -m spacy train config.cfg --output models/ner_amazon_new --paths.train datasets/amazon/spacy/train.spacy --paths.dev datasets/amazon/spacy/dev.spacy
+
+python -m spacy train config.cfg --output models/ner_amazon_new_shuffle --paths.train datasets/amazon/spacy/train_shuffle.spacy --paths.dev datasets/amazon/spacy/dev_shuffle.spacy
+
+!python -m spacy train models/spacy_embeddings/config.cfg --output models/ner_amazon_embedding --paths.train datasets/amazon/spacy/train_shuffle.spacy --paths.dev datasets/amazon/spacy/dev_shuffle.spacy
