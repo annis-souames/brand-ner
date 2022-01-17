@@ -78,3 +78,20 @@ The `cmd.txt` file contains set of spaCy commands to run the model.
 In order to retrain the Flair model, which gave slightly better results, you should make sure that you have pytorch and flair installed along with a good GPU, RAM and internet connection, we advise to use Google Colab is you don't have a GPU. 
 
 After that just run `Flair NER Model.ipynb` using the right paths for the data. You can find [Flair documentation here](https://github.com/flairNLP/flair).
+
+
+## Cite and contribute :
+
+In case you use this project in a research project, please cite our paper : 
+
+Mohamed Annis Souames, Larbi Abderrahmane Mohammedi "An end to end approach to brand recognition in product titles using BI-LSTM-CRF", 2022
+
+
+If you found errors or bugs, please create an issue, and if you enjoyed this project please give us a star !
+
+
+## Contributors
+
+- Mohamed Annis Souames - Ecole Nationale Polytechnique, Algiers
+
+- Larbi Abderrahmane Mohammedi - Ecole Nationale Polytechnique, Algiers 
