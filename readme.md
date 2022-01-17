@@ -8,8 +8,17 @@ The models tested are built using spaCy and Flair and then compared. The final m
 
 ### Demo : 
 
-<img src="ressources/spacy_results.png?raw=true" width="200" height="200" />
-![Flair Resuls](ressources/flair%20results.png?raw=true "Results of model built with Flair")
+<p align="center">
+
+<img src="ressources/spacy_results.png?raw=true" width="500" height="500" />
+ Results with spaCy model
+</p>
+
+<p align = "center">
+
+<img src="ressources/flair%20results.png?raw=true" width="500" height="500" />
+Results with flair Model
+</p>
 
 ### Paper : 
 
@@ -44,7 +53,6 @@ You can reproduce the dataset by following these steps, or you can use the clean
 
 ## Pretrained models
 
---
 
 ### Flair :
 
