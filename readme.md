@@ -11,14 +11,16 @@ The models tested are built using spaCy and Flair and then compared. The final m
 <p align="center">
 
 <img src="ressources/spacy_results.png?raw=true" width="500" height="500" />
- Results with spaCy model
+ 
 </p>
+<p align = "center">Results with spaCy model</p>
 
 <p align = "center">
+<img src="ressources/flair%20results.png?raw=true" />
 
-<img src="ressources/flair%20results.png?raw=true" width="500" height="500" />
-Results with flair Model
 </p>
+<p align="center">Results with flair model</p>
+
 
 ### Paper : 
 
